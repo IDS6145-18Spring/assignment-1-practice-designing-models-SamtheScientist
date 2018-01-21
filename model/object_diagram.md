@@ -1,13 +1,20 @@
-## Smart City (My Problem) Model - Object Diagram
+## Smart City Robot Perceptual and Processing System (RPPS) Model - Object Diagram
 
-(remove: provide a description of the current model you describe below)
+The *Robot Perceptual and Processing System*, or RPPS, is composed of several second-level sub-systems that form the central components of the overall system. The primary sub-systems are as follows and detailed below in the object diagram:
+* ***Robot Perceptual and Processing System*** 
+    * **Robot Platform**
+        * Aerial
+        * Ground
+    * **Sensor Suite**
+        * Infrared
+        * LADAR
+    * **Artificial Intelligence**
+        * Brunswikian Lens Model
+        * Facial Recognition Model
+    * **Databases**
+        * Human Activities & Behaviors
+        * Facial Recognition
+        * Mental States
 
-(remove: use images!!!)
-(remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
 
-![Example Object Diagram](../images/class_example_diagram.png)
-
-(remove: More decription)
-(remove: Maybe a second or third diagram to highlight a point or aspect)
-
-(remove: each diagram markdown file should roughly follow this template)
+![Object Diagram](../images/A1_ObjectDiagram_3.png)
