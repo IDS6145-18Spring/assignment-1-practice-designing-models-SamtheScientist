@@ -56,7 +56,7 @@ Lastly, once the appropriateness of the sensor suite has been established, the p
 ## Smart City Robot Perceptual and Processing System (RPPS) Model
 [**Code template**](code/README.md) - Starting coding framework for the Robot Perceptual and Processing System (RPPS).
 
-<b>
+<br>
 
 ## Part 5 - From Code to Model 
 ### **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
